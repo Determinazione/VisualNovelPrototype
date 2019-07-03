@@ -1,0 +1,14 @@
+{
+    "name": "AdventureTests",
+    "references": [
+        "AdventureScripts"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
